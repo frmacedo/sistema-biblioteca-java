@@ -13,7 +13,7 @@ Sistema desktop para gerenciamento de biblioteca, incluindo controle de usuário
 - Git / GitHub
 
 ## 👤 Desenvolvedor
-- [Seu Nome Aqui]
+- Christian Soares Macedo
 
 ## ⚙️ Funcionalidades
 - Login com níveis de acesso (admin e usuário)
